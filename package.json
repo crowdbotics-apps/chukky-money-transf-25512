@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@modules/privacy-policy": "file:./modules/privacy-policy",
+    "@modules/terms-and-conditions": "file:./modules/terms-and-conditions",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-native-community/slider": "^3.0.3",
     "@react-navigation/drawer": "^5.12.3",
