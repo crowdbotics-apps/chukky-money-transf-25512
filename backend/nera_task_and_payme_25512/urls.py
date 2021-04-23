@@ -53,9 +53,9 @@ urlpatterns = [
     path("api/v1/", include("users.api.v1.urls")),
 ]
 
-admin.site.site_header = "NERA Task and Payments"
-admin.site.site_title = "NERA Task and Payments Admin Portal"
-admin.site.index_title = "NERA Task and Payments Admin"
+admin.site.site_header = "Chukky money transfer App"
+admin.site.site_title = "Chukky money transfer App Admin Portal"
+admin.site.index_title = "Chukky money transfer App Admin"
 
 # swagger
 api_info = openapi.Info(
